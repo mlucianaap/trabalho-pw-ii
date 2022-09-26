@@ -7,8 +7,13 @@
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [chalk](https://www.npmjs.com/package/chalk)
 
-**Como executar?**
+**Como executar?**<br>
 No terminal, instale as dependências do projeto:
 ```console
 npm install
+```
+
+E execute o comando:
+```console
+node .\index.js
 ```
