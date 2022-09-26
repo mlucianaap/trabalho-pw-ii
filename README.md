@@ -8,7 +8,12 @@
 - [chalk](https://www.npmjs.com/package/chalk)
 
 **Como executar?**<br>
-No terminal, instale as dependências do projeto:
+No terminal, clone o projeto:
+```console
+git clone https://github.com/mlucianaap/trabalho-pw-ii.git
+```
+
+Instale as dependências do projeto:
 ```console
 npm install
 ```
